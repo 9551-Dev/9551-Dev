@@ -1,6 +1,6 @@
-## A fucking ~~dumbass~~nerd
+<sub>A freaking ~~dumbass~~nerd</sub>
 
-### <img src="https://devvie.cc/meow.png" width="50"></img> hii im 9551 (9551-Dev,9551,dev,devvie)
+# <img src="https://devvie.cc/meow.png" width="50"></img> hii im 9551 (9551-Dev,9551,dev,devvie)
 
 I am a 17 year old amateur programmer, high voltage and power electronics hobbyist from czech republic (with an interest in photography)
 
