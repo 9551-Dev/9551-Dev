@@ -1,4 +1,7 @@
-<sub>A freaking ~~dumbass~~nerd</sub>
+![uwu](pixel_render.png)
+
+
+<sub>A ~~freaking~~silly ~~dumbass~~nerd</sub>
 
 # <img src="https://devvie.cc/meow.png" width="50"></img> hii im 9551 (9551-Dev,9551,dev,devvie)
 
