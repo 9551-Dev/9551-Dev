@@ -14,6 +14,8 @@ Also kind of a shy a nerd :>
 
 ~~sometimes suffers from a bit of dyslexia~~
 
+- Happen to find something i made somehow useful and are financially irresponsible? consider supporting me on [ko-fi](https://ko-fi.com/9551_) :3
+
 - What do i do related to programming?
   - api/frameworks development (3D,UI,graphics,general use tools)
   - graphics programming (rendering,rasterization,isometric,raymarching,2D)
