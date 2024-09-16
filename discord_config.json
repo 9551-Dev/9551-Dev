@@ -1,0 +1,24 @@
+{
+  "BACKGROUND_COLOR": "#202225",
+  "IS_MAXIMIZED": false,
+  "IS_MINIMIZED": false,
+  "WINDOW_BOUNDS": {
+    "x": 0,
+    "y": 25,
+    "width": 2717,
+    "height": 1511
+  },
+  "openasar": {
+    "setup": true,
+    "css": "",
+    "quickstart": true,
+    "multiInstance": true,
+    "noTyping": true
+  },
+  "trayBalloonShown": true,
+  "DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true,
+  "MIN_WIDTH": 940,
+  "MIN_HEIGHT": 500,
+  "SKIP_HOST_UPDATE": true,
+  "chromiumSwitches": {}
+}
