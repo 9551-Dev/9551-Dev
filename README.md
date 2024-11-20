@@ -1,4 +1,7 @@
-# <img src="https://devvie.cc/meow.png" width="50"></img> hii im 9551 (9551-Dev,9551,dev,devvie)
+# <img src="https://devvie.cc/meow.png" width="50"></img> hii im 9551 (9551-Dev,9551,dev,devvie
+
+## Note for people who know me:
+- I am currently insanely low on any form of motivation when it comes to literally everything i do and have been doing for the past year- it sucks but there isnt much i can do about it
 
 ![uwu](pixel_render.png)
 
