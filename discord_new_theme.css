@@ -1,0 +1,30 @@
+/* move inbox button */
+[data-windows] [class^=trailing_] {
+    position: absolute;
+    z-index: 101;
+    right: 8px;
+    top: 8px;
+}
+/* hide support button */
+a[href="https://support.discord.com"] {
+    display: none;
+}
+/* move search to the side */
+[class^=toolbar__]>[class^=search__] {
+    padding-right: 32px;
+}
+/* hide real top bar */
+.visual-refresh {
+    --custom-app-top-bar-height: 0;
+}
+/* fix top padding of guildlist */
+[class^=sidebar_]>nav>ul>[class^=itemsContainer_]>div {
+    padding-top: var(--space-md) !important;
+}
+
+.scroller__99e7c ul li:nth-child(3),
+.scroller__99e7c ul li:nth-child(4),
+.scroller__99e7c ul h2
+{
+    display: none !important;
+}
