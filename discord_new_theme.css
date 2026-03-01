@@ -22,9 +22,75 @@ a[href="https://support.discord.com"] {
     padding-top: var(--space-md) !important;
 }
 
-.scroller__99e7c ul li:nth-child(3),
-.scroller__99e7c ul li:nth-child(4),
-.scroller__99e7c ul h2
-{
+/* gifs list  */
+._084343c4f11eaaab-positionContainer {
+    height: 90vh;
+}
+
+/* left bar padding */
+nav {
+    padding-top: var(--space-md) !important;
+}
+/* top bar  */
+.visual-refresh {
+    --custom-app-top-bar-height: 0px;
+}
+[class *= "-bar"] {
     display: none !important;
+}
+/* red glow on the mute buttons */
+[class *= "redGlow"] {
+    background: none !important;
+}
+:root {
+    --pfp-rounding: 8px;
+}
+/* profile pics & server icons rounding */
+foreignObject {
+    mask: none !important;
+}
+
+foreignObject div img,
+img[class *= "avatar_"] {
+    border-radius: var(--pfp-rounding) !important;
+}
+
+/* retarded fucking activity icons */
+a[data-list-item-id ^= "private-channels"] div[class $= "content"] span:has([class *= "textWithIconContainer"]) {
+    display: none !important;
+}
+
+/* status circles */
+[class *= "subText"] > div > [class *= "activityStatusText"][class *= "-dot"] {
+    background: #f00;
+    display: none !important;
+}
+
+/* nitro, shop, quests */
+ul[aria-label="Direct Messages"]:has([class *= "sectionDivider"]) > :nth-child(n+2) ~ :not([class *= "sectionDivider"], [class *= "sectionDivider"] ~ *) {
+    display: none;
+}
+
+/* frequent friends bottom section div */
+.e6b7699ce8339e1c-sectionDivider {
+    display: none !important;
+}
+
+/* frequent friends thingy */
+[class*="frequentFriendsRow"] {
+    display: none !important;
+}
+
+/* remove avatar decors */
+[class*="avatarDecoration"] {
+  //display: none !important;
+}
+
+/* stop showing offline status circle */
+rect[fill="#82838b"] {
+  display: none;
+}
+
+*, *::before, *::after {
+  font-family: 'DejaVu Sans Mono','Fira Code','tewif','tewifw','Computercraft' !important;
 }
