@@ -91,6 +91,11 @@ rect[fill="#82838b"] {
   display: none;
 }
 
+/* gif picker size */
+.expressionPickerPositionLayer__74017 {
+    height: 80% !important;
+}
+
 *, *::before, *::after {
   font-family: 'DejaVu Sans Mono','Fira Code','tewif','tewifw','Computercraft' !important;
 }
