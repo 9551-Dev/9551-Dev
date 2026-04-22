@@ -1,8 +1,5 @@
 # <img src="https://devvie.cc/meow.png" width="50"></img> hii im 9551 (9551-Dev, 9551, dev, devvie)
 
-## Note for people who know me:
-- I am currently insanely low on any form of motivation when it comes to literally everything i do and have been doing for the past year- it sucks but there isnt much i can do about it. SOrry if there isnt much interesting happening on projects you're following.. Im trying my "best" but also i sometimes feel like im just lazy.. it might be something deeper than that but whatever. Hopefully gets better at some point!
-
 ![uwu](pixel_render.png)
 
 <sub>A ~~freaking~~silly ~~dumbass~~nerd</sub>
@@ -10,7 +7,7 @@
 ---
 
 
-I am a 17 year old amateur programmer, high voltage and power electronics hobbyist from czech republic (with an interest in photography)
+I am a 18 year old amateur programmer, high voltage and power electronics hobbyist from czech republic (with an interest in photography)
 
 
 Also kind of a shy a nerd :>
