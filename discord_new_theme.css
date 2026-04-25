@@ -96,6 +96,10 @@ rect[fill="#82838b"] {
     height: 80% !important;
 }
 
+.row__70e41 {
+    display: none !important
+}
+
 *, *::before, *::after {
   font-family: 'DejaVu Sans Mono','Fira Code','tewif','tewifw','Computercraft' !important;
 }
