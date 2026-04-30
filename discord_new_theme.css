@@ -100,16 +100,6 @@ rect[fill="#82838b"] {
     display: none !important
 }
 
-.vc-typing-user {
-  font-size: 0 !important;
-}
-
-.vc-typing-user::after {
-  content: "Kokotik";
-  font-size: 1rem;
-  font-weight: inherit;
-}
-
 *, *::before, *::after {
   font-family: 'DejaVu Sans Mono','Fira Code','tewif','tewifw','Computercraft' !important;
 }
