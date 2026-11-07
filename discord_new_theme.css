@@ -92,8 +92,8 @@ rect[fill="#82838b"] {
 }
 
 /* gif picker size */
-.expressionPickerPositionLayer__74017 {
-    height: 80% !important;
+section[role="dialog"][aria-label="Expression Picker"] {
+  height: 80vh !important;
 }
 
 .row__70e41 {
