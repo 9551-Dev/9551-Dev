@@ -1,3 +1,8 @@
+/* remove activity status */
+.subText_TBNqol,.subText_J1Adu_ {
+    display: none !important;
+}
+
 /* move inbox button */
 [data-windows] [class^=trailing_] {
     position: absolute;
